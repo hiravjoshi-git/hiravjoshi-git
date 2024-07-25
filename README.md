@@ -11,7 +11,7 @@
 - 📫 Reach out to me at [hiravjoshi4@gmail.com](mailto:hiravjoshi4@gmail.com).
 - 📫 Connect with me:
   - 📧 [Email](mailto:hiravjoshi4@gmail.com)
-  - 💼 [LinkedIn](https://www.linkedin.com/in/hiravjoshi4/)
+  - 💼 [LinkedIn](www.linkedin.com/in/hirav-joshi-348142243)
   - 📹 [Instagram](https://www.instagram.com/hirav.joshi/)
 
 ### Professional Summary:

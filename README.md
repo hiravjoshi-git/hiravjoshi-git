@@ -19,7 +19,7 @@
 As a Django developer with a strong focus on backend development, I also possess extensive experience in frontend development using ReactJS. At CodSoft, I work with HTML, CSS, and JavaScript to create dynamic and responsive web applications. My role has honed my skills in both server-side and client-side technologies, enabling me to build comprehensive and scalable web solutions.
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaluiovilash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaluiovilash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hirav-joshi-348142243) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hirav.joshi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hirav-joshi-348142243) 
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 

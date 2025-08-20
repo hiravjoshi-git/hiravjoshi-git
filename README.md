@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://joshihirav.vercel.app/](https://joshihirav.vercel.app/)
 
-- 📫 How to reach me? **Mail at**: [joshihirav14@gmail.com](mailto:joshihirav14@gmail.com)
+- 📫 How to reach me? **Mail at**: [hiravjoshi4@gmail.com](mailto:hiravjoshi4@gmail.com)
 
 ## 🌐 Socials:
 

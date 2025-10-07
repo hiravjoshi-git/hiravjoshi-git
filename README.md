@@ -1,4 +1,10 @@
-<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU1eXU4OGQ4MWp1NDNpMXlqam05ejA0c2dlZmRyZjI0YmhtMjE5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif"></p>
+<p align="center">
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU1eXU4OGQ4MWp1NDNpMXlqam05ejA0c2dlZmRyZjI0YmhtMjE5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+    alt="gif"
+    width="300"
+    height="300">
+</p>
 
 # <h1 align="center">👋 Hello!, I'm Hirav Joshi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 

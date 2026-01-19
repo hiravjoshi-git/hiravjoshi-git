@@ -10,9 +10,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **Software Engineer and Flutter**
+- 🔭 I’m currently working on *MIS Executive/Operations Executive*
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently learning *Data Analysis, PowerBI, SQL*
 
 - 👨‍💻 All of my projects are available at [https://joshihirav.vercel.app/](https://joshihirav.vercel.app/)
 
